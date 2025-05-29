@@ -91,7 +91,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  ### Data Visualization and Storytelling:
  **Make the PowerPoint presentation as per the given template**
  
- - Powerpoint Presentation : [PPT](pptlink)
+ - Powerpoint Presentation : [PPT](https://github.com/Tushark6038/Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/3de624c9df609d344a655cabc7c8565063ff9ef5/Accenture%20Internship%20PowerPoint%20presentation%20-%20Task%203%20.pptx)
  
  ## Task - 4
  ### Present to the Client:
