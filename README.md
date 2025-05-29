@@ -34,7 +34,7 @@ This project was completed as part of the Accenture North America Data Analytics
   
 
 ## Preview Image:
-![Dashboard Preview](DashboardLink)
+![Dashboard Preview](https://github.com/Tushark6038/Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/3de624c9df609d344a655cabc7c8565063ff9ef5/Dashboard%20-%20Social%20Buzz.png)
 
 
 ## --------------------------------------------------------------------------------------------------------
@@ -46,7 +46,7 @@ This project was completed as part of the Accenture North America Data Analytics
  - One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
  - She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
  - Mae has scheduled a project kick-off call with the internal Accenture project team for tomorrow morning.
- - About Client : [Social Buzz](ClientBrief)
+ - About Client : [Social Buzz](https://github.com/Tushark6038/Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/3de624c9df609d344a655cabc7c8565063ff9ef5/Data_Analytics%20Client%20Brief.pdf)
 
 #### Task for Accenture : 
 
@@ -60,7 +60,7 @@ In short, the client wanted to see **“An analysis of their content categories 
 
 ## Task - 2
  - Often you won’t need all these datasets to find what you’re looking for.
- - So, the first step is to use this [data model](#) to identify which datasets will be required to answer your business question - which is to figure out the top 5 categories with the largest popularity.
+ - So, the first step is to use this [data model](https://github.com/Tushark6038/Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/3de624c9df609d344a655cabc7c8565063ff9ef5/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to figure out the top 5 categories with the largest popularity.
  - After Analysis we got data sets needed to complete analysis:
  >- Reaction Score(score is used to quantified the popularity)
  >- Content ID
@@ -85,7 +85,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  - Top 5 categories
  
  ### Cleaned Data set:
- So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](Datasetlink)
+ So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/Tushark6038/Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/3de624c9df609d344a655cabc7c8565063ff9ef5/Cleaned%20Data%20file.csv)
  
  ## Task - 3
  ### Data Visualization and Storytelling:
@@ -98,7 +98,7 @@ In short, the client wanted to see **“An analysis of their content categories 
  **Present your PowerPoint presentation to the client and deliver the insights of your analysis** 
 
  ## Certificate:
-[Certificate of Completion](cirtificatelink)
+[Certificate of Completion](https://github.com/Tushark6038/Accenture-Data-Analytics-Visualization-Virtual-Internship/blob/3de624c9df609d344a655cabc7c8565063ff9ef5/Accenture%20Virtual%20Internship%20Completion%20Certificate.pdf)
 
  ## Connect with Me:
 Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile]([https://www.linkedin.com/in/minhaj313](https://www.linkedin.com/in/tushar-kumar-4362a324b/))
